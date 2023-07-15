@@ -1,4 +1,4 @@
-#I HAVEN´T FINISHED IT YET
+# I HAVEN´T FINISHED IT YET, ONLY FOR DATA BACKUP PURPOSES
 
 # Getting Started with Create React App
 
