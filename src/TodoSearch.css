@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Ysabeau+SC:wght@200&display=swap');
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.TodoSearch {
+    border-radius: 10px;
+    border-width: 2px;
+    border-color: aquamarine;
+    font-family: 'Ysabeau SC', sans-serif;
+    font-style: italic; 
+    margin-top: 30px;
+}
+
+.TodoSearch:focus {
+    color: black;
+    border-color: black;
+}
+

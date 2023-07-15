@@ -1,0 +1,14 @@
+.f {
+    display: flex;
+    justify-content: center;
+    align-content: space-between;
+
+}
+
+#zweite {
+    border-top: 10px double gray;
+    border-bottom: 10px double gray;
+    padding-bottom: 23px;
+    margin-top: 10px;
+}
+
